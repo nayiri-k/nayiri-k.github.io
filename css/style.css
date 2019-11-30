@@ -1045,7 +1045,12 @@ body.offcanvas {
   background-size: cover;
   background-attachment: fixed;
   background-position: center center; }
-  
+  .colorlib-counters h2 {
+    line-height: 1; 
+	position: relative;
+	color: #FFFFFF; 
+	clear: both;
+	opacity:1; }
   .colorlib-counters .overlay {
     z-index: 0;
     position: absolute;
@@ -1074,6 +1079,10 @@ body.offcanvas {
       border-radius: 50%; }
   .colorlib-counters .counter-wrap {
     border: 1px solid red !important; }
+  .colorlib-counters {
+	background-image:
+		url("https://raw.githubusercontent.com/nayiri-k/nayiri-k.github.io/master/images/cover_bg_1.JPG?token=AJD4CHYGIJS6YNW4HPO6ICK55QNBO")
+  }
   .colorlib-counters .colorlib-counter {
     font-size: 40px;
     display: block;
