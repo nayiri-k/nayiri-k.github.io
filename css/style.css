@@ -974,6 +974,8 @@ body.offcanvas {
     background: #00e0e0;}
 	.project .desc .green{
     background: #22b14c;}
+	.project .desc .dkblue{
+    background: #0072bd;}
     .project .desc .con {
       padding: 20px;
       display: block;
