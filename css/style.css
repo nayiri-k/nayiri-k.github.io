@@ -967,15 +967,17 @@ body.offcanvas {
 	.project .desc .red{
     background: #ff0000;}
 	.project .desc .orange{
-    background: #ffd700;}
+    background: #e5c500;}
 	.project .desc .magenta{
     background: #ff19ff;}
 	.project .desc .cyan{
-    background: #00e0e0;}
+    background: #00d0d5;}
 	.project .desc .green{
     background: #22b14c;}
 	.project .desc .dkblue{
     background: #0072bd;}
+	.project .desc .purple{
+    background: #474062;}
     .project .desc .con {
       padding: 20px;
       display: block;
@@ -1044,7 +1046,7 @@ body.offcanvas {
           -webkit-transform: translate3d(0, 0, 0);
           transform: translate3d(0, 0, 0); } }
   .project:hover .desc {
-    opacity: .9; }
+    opacity: .8; }
     .project:hover .desc h3 {
       -webkit-transform: translate3d(0, 0, 0);
       transform: translate3d(0, 0, 0); }
